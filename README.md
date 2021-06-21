@@ -1,6 +1,6 @@
 
-# GMM on Hypespectral images
-Gausian Mixture Models applied on Hyperspectral Satellite images to automatically extract vegetation, the sea and cities
+# Unsupervised classification on Hypespectral images
+K Nearest Neighbours (KNN) and Gausian Mixture Models (GMM) applied on Hyperspectral Satellite images to automatically extract vegetation, the sea and cities
 
 -----------------------------------
 # Hyperspectral imagery

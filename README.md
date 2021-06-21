@@ -22,4 +22,11 @@ In short, two types of Unsupervised classification methods are:
 
 -----------------------------
 ## KNN:
-KNN is a static method of finding the class the a given sample most closely resembles.
+KNN is a static method of finding the class the a given sample most closely resembles. From a set of several samples, and 4 clusters, 4 new samples are made:
+<img src="figures/hyper2.PNG" width="400" height="400" align="middle">
+
+Simply put: for each sample, the closest K nearest neubough are found whereafter the class the majority are belonging to is chosen:
+
+<img src="figures/hyper3.PNG" width="400" height="400" align="middle">
+
+

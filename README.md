@@ -13,3 +13,9 @@ Below, an image taken from the aviris sensor is shown (or, 3 bands..) This will 
 
 ----------------------------------
 # Unsupervised classification
+
+"Unsupervised learning (UL) is a type of algorithm that learns patterns from untagged data. The hope is that, through mimicry, the machine is forced to build a compact internal representation of its world and then generate imaginative content. In contrast to supervised learning (SL) where data is tagged by a human, e.g. as "car" or "fish" etc, UL exhibits self-organization that captures patterns as neuronal predilections or probability densities.[1] The other levels in the supervision spectrum are reinforcement learning where the machine is given only a numerical performance score as its guidance, and semi-supervised learning where a smaller portion of the data is tagged. Two broad methods in UL are Neural Networks and Probabilistic Methods." --- Wikipedia... 
+
+In short, two types of Unsupervised classification methods are:
+  * K Nearest Neighbours (GMM)
+  * Gaussian Mixture Model (GMM)

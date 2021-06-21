@@ -19,3 +19,7 @@ Below, an image taken from the aviris sensor is shown (or, 3 bands..) This will 
 In short, two types of Unsupervised classification methods are:
   * K Nearest Neighbours (GMM)
   * Gaussian Mixture Model (GMM)
+
+-----------------------------
+## KNN:
+KNN is a static method of finding the class the a given sample most closely resembles.

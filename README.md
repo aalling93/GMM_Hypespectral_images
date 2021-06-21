@@ -30,4 +30,27 @@ Simply put: for each sample, the closest K nearest neubough are found whereafter
 
 <img src="figures/hyper3.PNG" width="400" height="400">
 
+<img src="figures/hyper4.PNG" width="400" height="400">
+<img src="figures/hyper5.PNG" width="400" height="400">
+<img src="figures/hyper6.PNG" width="400" height="400">
 
+-----------------------------
+## GMM:
+
+GMM is yet another type of unsupervised classification. Whereas the KNN was a static classifier, GMM uses PROBABILITY i.e. it finds the class with the highest porbability and assign a given pixle to said class. It is therefore neccessary to determine the number of classes. The GMM will thereafter assign each pixel in the hyper-spectral image to a class.
+
+Here, Bays theory is used(using both the sum rule and product rule). The GMM is trying to find the distribution using several gaussian PDF's. 
+
+<img src="figures/hyper7.PNG" width="400" height="400">
+<img src="figures/hyper8.PNG" width="400" height="400">
+<img src="figures/hyper9.PNG" width="400" height="400">
+<img src="figures/hyper91.PNG" width="400" height="400">
+<img src="figures/hyper96.PNG" width="400" height="400">
+
+
+<img src="figures/hyper93.PNG" width="400" height="400">
+<img src="figures/hyper94.PNG" width="400" height="400">
+
+
+
+<img src="figures/hyper97.PNG" width="400" height="400">
